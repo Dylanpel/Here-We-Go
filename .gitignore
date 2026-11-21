@@ -1,0 +1,17 @@
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs / IDE
+.vscode/
+.idea/
+*.swp
+
+# Dépendances et environnement
+vendor/
+node_modules/
+.env
+
+# Logs
+*.log
