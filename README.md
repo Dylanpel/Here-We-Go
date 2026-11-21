@@ -2,19 +2,19 @@
 
 **Here We Go** est une plateforme web de partage d'événements et de covoiturage. Elle permet de découvrir des événements (musique, culture, loisirs…), d'y participer et de s'y rendre en covoiturage avec d'autres participants.
 
-## 🎓 Contexte
+##  Contexte
 
 Ce projet a été réalisé dans le cadre de notre **formation à l'ISFAC**, en tant que **projet fil rouge**.
 C'est l'un de nos plus gros projets : il nous a accompagnés tout au long de la formation et nous a permis de mettre en pratique l'ensemble des compétences acquises (conception de base de données, architecture MVC, développement back-end en PHP, intégration front-end, gestion des rôles et de la sécurité…).
 
-## 👥 Auteurs
+##  Auteurs
 
 Projet réalisé à deux par :
 
 - **Dylan Peltier**
 - **Quentin Blairet**
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 ### Événements
 - Consultation des événements à la une et par catégorie (musique, culture, loisirs…)
